@@ -1,4 +1,4 @@
-# SVM Disaster Tweet Classification
+# SVM Disaster Tweet Detection
 
 ## About This Ptoject
 
